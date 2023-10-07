@@ -22,7 +22,7 @@
 
 <br />
 
-Hi,I am Halis Cin.I am a senior Software Engineering Student at IEU.As someone who is curious and eager to learn
+Hello! I am a senior Software Engineering Student at IEU.As someone who is curious and eager to learn,I am interested in Java,C++ and Python programing languages.
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
