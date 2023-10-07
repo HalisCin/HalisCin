@@ -12,6 +12,8 @@ I am a senior Software Engineering Student at IEU.I am curious and eager to lear
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" />
 
+<br />
+
 
 
 ### :man_technologist: About Me :
@@ -24,7 +26,6 @@ I am a senior Software Engineering Student at IEU.I am curious and eager to lear
 
 <br /> 
 
-<br /> 
 
 
 
