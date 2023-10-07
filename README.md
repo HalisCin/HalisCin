@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Halis!](https://sakigo9.github.io/MyPortfolio/)
+### Hello World 👋 It's [Halis!]
 
 
 <br />
@@ -8,11 +8,6 @@ Hello! I am a senior Software Engineering Student at IEU.As someone who is curio
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
-
-
-
-
 
 
 
