@@ -7,6 +7,9 @@
 Hello! I am a senior Software Engineering Student at IEU.As someone who is curious and eager to learn,I am interested in Java,C++ and Python programing languages.
 
 
+<br /> 
+
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
@@ -15,7 +18,7 @@ Hello! I am a senior Software Engineering Student at IEU.As someone who is curio
 - 👯 Part of Google Developer Students Club.
 - 📫 How to reach me: https://www.linkedin.com/in/halis-cin-16821b245/
 
-
+<br /> 
 
 
 
