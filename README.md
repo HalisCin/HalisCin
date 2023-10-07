@@ -13,9 +13,14 @@ Hello! I am a senior Software Engineering Student at IEU.As someone who is curio
 
 
 
+
+
+
 - 🌱 I’m currently learning JavaScript,Java and Python.
 - 👯 Part of Google Developer Students Club.
 - 📫 How to reach me: https://www.linkedin.com/in/halis-cin-16821b245/
+
+
 
 
 
