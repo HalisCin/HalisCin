@@ -10,7 +10,8 @@ Hello! I am a senior Software Engineering Student at IEU.As someone who is curio
 <br /> 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2UvqgUwwLs0PfPw-n-psUI&ust=1696784681875000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOjluda15IEDFQAAAAAdAAAAABAD" />
+
 
 
 
