@@ -4,7 +4,7 @@
 <br />
 
 
-I am a senior Software Engineering Student at IEU. As someone who is curious and eager to learn,I am interested in Java, C++, Python, JavaScript programing languages.
+I am a senior Software Engineering Student at IEU.I am curious and eager to learn and I am trying to specialize in Java, C++, Python, JavaScript programing languages.
 
 
 <br /> 
@@ -29,7 +29,8 @@ I am a senior Software Engineering Student at IEU. As someone who is curious and
 
 
 ### :hammer_and_wrench: **Languages and Tools:**
-<br /> 
+<br />
+
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
