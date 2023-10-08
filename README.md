@@ -1,8 +1,7 @@
+
 ### Hello World 👋 It's Halis
 
-
 <br />
-
 
 I am a senior Software Engineering Student at IEU.I am curious and eager to learn and I am trying to specialize in Java, C++, Python, JavaScript programing languages.
 
